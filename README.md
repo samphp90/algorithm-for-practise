@@ -1,4 +1,4 @@
-#algorithm-for-practise
+# algorithm-for-practise
 This is the practise repo for algorithm 
 
 **Required to run this is on local**
