@@ -2,7 +2,6 @@
 This is the practise repo for algorithm 
 
 **Required to run**
-
 PHP
 Web server nginx / apache
 
